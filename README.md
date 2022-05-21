@@ -8,6 +8,7 @@ The objective of the project was to recommend forum posts to a user based on the
 
 ## Web Scraper
 A Python custom class created to scrape and pick apart relevant pieces of information from the Tapas comics forum.
+
 **Information Scraped:** Title, original post, likes, views, replies, category
 ## Recommender
 Vectorizes input text and calculates cosine similarity scores between pre-vectorized forum posts and serves highest similarity posts via a reversed priority queue data structure.
