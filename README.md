@@ -4,6 +4,8 @@ Recommender &amp; Classifier System Applet for https://forums.tapas.io/
 <div align=center><img src="https://user-images.githubusercontent.com/27745342/132301665-d4ea3c25-9a4b-4019-9857-9b83d2eb8eb4.png"></div>
 
 # Description
+The objective of the project was to recommend forum posts to a user based on their textual input and train models to classify user text as belonging to a particular category of the forum i.e. Off-Topic.
+
 ## Web Scraper
 A Python custom class created to scrape and pick apart relevant pieces of information from the Tapas comics forum.
 **Information Scraped:** Title, original post, likes, views, replies, category
