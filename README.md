@@ -13,5 +13,5 @@ A Python custom class created to scrape and pick apart relevant pieces of inform
 ## Recommender
 Vectorizes input text and calculates cosine similarity scores between pre-vectorized forum posts and serves highest similarity posts via a reversed priority queue data structure.
 ## Classifier
-Utilizes a pre-trained RoBERTa model to determine an approximate and appropriate forum category for user input text.
+Utilizes a trained RoBERTa model to determine an approximate and appropriate forum category for user input text.
 
